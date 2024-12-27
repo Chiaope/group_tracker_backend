@@ -1,6 +1,6 @@
-from logging.config import dictConfig
 from quart import Quart
 from quart_schema import QuartSchema
+
 
 app_name = "Group Tracker Backend"
 

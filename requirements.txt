@@ -1,2 +1,4 @@
 quart
 quart-schema[pydantic]
+python-dotenv
+psycopg2
